@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+    background:radial-gradient(red, gray,black);
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+     color: white;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40%
+  }
+  li{
+    text-align: center;
+     color: white;c
+  }
+  
+  h2{
+    text-align: center;
+    color: white;
+  }
+  
